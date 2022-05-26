@@ -1,7 +1,9 @@
 package com.cashapona.collections.may23;
 
 import java.util.*;
-public class ArrayListMethodExample {
+
+public class ColorsExample {
+	
   public static void main(String[] args) {
   List<String> list_Strings = new ArrayList<String>();
   list_Strings.add("Violet");

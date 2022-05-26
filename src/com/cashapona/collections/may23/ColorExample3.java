@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
-public class QueueMethodExample {
+public class ColorExample3{
+	
 	public static void main(String[] args) {
       
 	 //adding elements to the queue

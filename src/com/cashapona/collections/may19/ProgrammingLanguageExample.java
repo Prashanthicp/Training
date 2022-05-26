@@ -1,7 +1,7 @@
 package com.cashapona.collections.may19;
 
 import java.util.*;
-class TreeSetMethodExample{
+class ProgrammingLanguageExample{
  public static void main(String args[]){
  TreeSet<String> set=new TreeSet<String>();
          set.add("Java");

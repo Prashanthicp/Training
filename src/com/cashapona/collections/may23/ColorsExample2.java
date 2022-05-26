@@ -2,10 +2,14 @@ package com.cashapona.collections.may23;
 
 import java.util.Iterator;
 import java.util.LinkedList;
-public class LinkedListMethodExample {
+
+public class ColorsExample2 {
+	
 public static void main(String[] args) {
+	
    // create an empty linked list
    LinkedList<String> l_list = new LinkedList<String>();
+   
    //use add() method to add values in the linked list
         l_list.add("Violet");
         l_list.add("Indigo");

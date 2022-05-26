@@ -1,7 +1,11 @@
 package com.cashapona.collections.may20;
-import java.util.*;  
-class TreeMap3{  
- public static void main(String args[]){  
+
+import java.util.*; 
+
+class StudentExample{ 
+	
+ public static void main(String args[]){ 
+	 
    NavigableMap<Integer,String> map=new TreeMap<Integer,String>();    
       map.put(545,"Prash");    
       map.put(549,"Ruhi");    

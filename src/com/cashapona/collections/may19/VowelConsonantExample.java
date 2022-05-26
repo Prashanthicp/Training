@@ -2,7 +2,7 @@ package com.cashapona.collections.may19;
 
 import java.util.HashSet;
 
-public class FirstExample {
+public class VowelConsonantExample {
   public static void main(String[] args) {
     HashSet<String> vowelSet = new HashSet<>();
  

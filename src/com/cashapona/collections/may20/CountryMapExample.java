@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 	  
-public class MapInterfaceMethodsExample { 
+public class CountryMapExample { 
 	
 	public static void main(String[] args) {
 	    //creating map
