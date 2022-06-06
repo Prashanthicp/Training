@@ -1,0 +1,22 @@
+package com.cashapona.loops.jun06;
+
+//factorial of number
+import java.util.Scanner;
+
+public class FactorialExample {
+  public static void main(String[] args) {
+      Scanner sc = new Scanner(System.in);
+      System.out.print("Enter the number you want factorial : ");
+      int n = sc.nextInt();
+      if (n<0) {
+          System.out.println("Invalid Number");
+      }
+      else {
+          int factorial = 1;
+          for (int i = n; i > 0; i--) {
+              factorial = factorial * i;
+          }
+          System.out.println("The factorial of " + n + " is : " + factorial);
+      }
+  }
+}

@@ -1,4 +1,4 @@
-package com.cashapona.oops.may25;
+package com.cashapona.oops.may30;
 
 public class MotorBike {
 	//state
@@ -8,7 +8,7 @@ public class MotorBike {
 		this(5);
 	}
 	
-	public MotorBike(int speed) {
+	MotorBike(int speed) {
 		this.speed = speed;	
 	}
 	
@@ -30,9 +30,10 @@ public class MotorBike {
 	}
 	
 	//behaviour
-     public void start() {
+     void start() {
 		System.out.println("Bike Started");
 		
 	}
 
 }
+

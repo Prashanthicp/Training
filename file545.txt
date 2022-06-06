@@ -1,0 +1,7 @@
+Employee ID:545
+Employee Name     :prash
+Father's Name     :mohan
+Employee Contact  :78445121851
+Email Information :prash@gmail.com
+Employee position :developer
+Employee Salary   :15000
